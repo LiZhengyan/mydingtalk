@@ -1,4 +1,4 @@
-package dingtalk
+package mydingtalk
 
 type Error struct {
 	Op   string `json:"Op"`

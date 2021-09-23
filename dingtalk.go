@@ -1,9 +1,10 @@
-package dingtalk
+package mydingtalk
 
 import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/LiZhengyan/mydingtalk/utils"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -12,8 +13,6 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	"github.com/Lizhengyan/dingtalk/utils"
 	"github.com/Lizhengyan/myglog"
 )
 

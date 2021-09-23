@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/Lizhengyan/dingtalk
+go_import_path: github.com/Lizhengyan/mydingtalk
 git:
   depth: 1
 env:

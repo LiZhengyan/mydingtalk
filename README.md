@@ -1,6 +1,6 @@
 ## Golang DingTalk SDK
 
-[![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/Lizhengyan/dingtalk) [![build status](https://img.shields.io/travis/Lizhengyan/dingtalk/master.svg?style=flat-square)](https://travis-ci.org/Lizhengyan/dingtalk)
+
 
 ## 钉钉SDK
 
