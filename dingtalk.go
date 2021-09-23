@@ -194,6 +194,4 @@ func SendDingMsg(token string, secret string, title string, msg string) {
 		log.Info(err.Error())
 	}
 
-
-
 }
