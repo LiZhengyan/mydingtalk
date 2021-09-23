@@ -29,8 +29,8 @@ package main
 import (
 	"io/ioutil"
 
-	"github.com/Lizhengyan/dingtalk"
-	"github.com/Lizhengyan/dingtalk/pkg/robot"
+	"github.com/LiZhengyan/dingtalk"
+	"github.com/LiZhengyan/dingtalk/pkg/robot"
 
 )
 
@@ -156,12 +156,12 @@ func printResult(dt *dingtalk.DingTalk) {
 ![image](<doc/feedCard.jpg>)
 
 ## Using
-    $ go get github.com/Lizhengyan/dingtalk
+    $ go get github.com/LiZhengyan/dingtalk
 
 You can use `go get -u` to update the package.
 
 ## Documentation
 
-For docs, see https://pkg.go.dev/github.com/Lizhengyan/dingtalk or run:
+For docs, see https://pkg.go.dev/github.com/LiZhengyan/dingtalk or run:
 
-    $ go doc github.com/Lizhengyan/dingtalk
+    $ go doc github.com/LiZhengyan/dingtalk

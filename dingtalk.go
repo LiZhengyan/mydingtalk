@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/LiZhengyan/mydingtalk/utils"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -13,7 +12,9 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"github.com/Lizhengyan/myglog"
+
+	"github.com/LiZhengyan/mydingtalk/utils"
+	"github.com/LiZhengyan/myglog"
 )
 
 var (
