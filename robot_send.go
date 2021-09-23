@@ -2,10 +2,9 @@ package mydingtalk
 
 import (
 	"bufio"
+	"github.com/LiZhengyan/mydingtalk/pkg/robot"
+	"github.com/LiZhengyan/mydingtalk/utils"
 	"strings"
-
-	"github.com/Lizhengyan/mydingtalk/pkg/robot"
-	"github.com/Lizhengyan/mydingtalk/utils"
 )
 
 // RobotSendText text类型的消息
