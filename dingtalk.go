@@ -188,7 +188,7 @@ func SendDingMsg(token string, secret string, title string, msg string) {
 
 	webHook := "https://oapi.dingtalk.com/robot/send?access_token=" + token
 	dt := New(webHook, WithSecret(secret))
-
+	dt.initClient()
 	markdownTitle := title
 	markdownText := "#### " + title + "\n" + msg
 	if err := dt.RobotSendMarkdown(markdownTitle, markdownText); err != nil {
