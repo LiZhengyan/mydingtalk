@@ -1,3 +1,8 @@
+## 这个版本是copy的CodyGuo同学的 https://github.com/CodyGuo/dingtalk
+## 拷贝过来只是为了修改方便，请不要fork我。 直接fork CodyGuo的原版，支持原作者
+## 如果你看到这些文字，请点击 https://github.com/CodyGuo/dingtalk 看作者的。
+## 这里是个人学习修改版本，一旦你fork回去自己用就可能程序出错。 
+
 ## Golang DingTalk SDK
 
 
